@@ -1,5 +1,7 @@
 # 🧪 Codigo cru dos guri – Estudos, Testes e Experimentos
 
+## **Bem-vindo ao açougue do conhecimento.** 🧑‍🍳🔪
+
 Este repositório é meu **laboratório pessoal de aprendizado em programação**.  
 Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre diversas linguagens e conceitos.
 
@@ -17,27 +19,41 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 
 ---
 
-## 🧰 Tecnologias e Linguagens
+## ⚙️ O que tem na bagaça
 
-| Área | Tecnologias |
-|------|-------------|
-| **Basico** | Tipo de Variaiveis , IF, LOOP, Saidas |
-| **Avançado** | Matriz, POO, Arrray |
+| Linguagem | O que tão fazendo |
+|-----------|-------------------|
+| **Java** | Back-end, POO, gambiarra controlada |
+| **PHP** | Sistema velho guerreiro, estudo puro |
+| **C#** | Desktop, Unity, os guri tao forte |
+| **JS/TS** | Front, back, lógica, o escambau |
+| **COBOL** | Old school, os guri tão raiz |
+| **SQL** | Consulta, modelagem, facada no banco |
+| **Bash** | Automação, script doido, café no código |
+
 
 
 ---
 
-## 📂 Estrutura
+## 🧠 Filosofia do rolê
 
-```bash
-laboratorio-dev/
-├── java/               
-├── php/                
-├── csharp/             
-├── javascript/         
-├── typescript/         
-├── cobol/              
-├── frontend/           
-├── sql/                
-├── scripts/            
-└── README.md           
+> Código de estudo não precisa ser lindo.  
+> Precisa ser **experimentado, quebrado e entendido**.
+
+Aqui os guri:
+- 🤜 Erram feio
+- 🤛 Aprendem na marra
+- 👊 Refatoram até ficar menos pior
+- 🧠 Guardam o aprendizado
+
+## 📌 Aviso aos navegantes
+
+Se você caiu aqui esperando:
+- código pronto
+- tutorial passo a passo
+- padrão de mercado
+
+**Pode descer do barco.** ⛵🚫
+
+Agora, se você também estuda, também erra, também quer ver o **processo real**:
+- Sobe a bordo, pega um café e fica à vontade. ☕
