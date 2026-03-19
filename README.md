@@ -30,6 +30,7 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 | **COBOL** | Old school, os guri tão raiz |
 | **SQL** | Consulta, modelagem, facada no banco |
 | **Bash** | Automação, script doido, café no código |
+| **C** | Automação, script doido, café no código |
 
 
 
