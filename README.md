@@ -26,10 +26,8 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 | **Java** | Back-end, POO, gambiarra controlada |
 | **PHP** | Sistema velho guerreiro, estudo puro |
 | **C#** | Desktop, Unity, os guri tao forte |
-| **JS/TS** | Front, back, lógica, o escambau |
+| **TS** | Front, back, lógica, o escambau |
 | **COBOL** | Old school, os guri tão raiz |
-| **SQL** | Consulta, modelagem, facada no banco |
-| **Bash** | Automação, script doido, café no código |
 | **C** | Automação, script doido, café no código |
 
 
