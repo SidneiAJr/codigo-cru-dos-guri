@@ -1,6 +1,4 @@
-
 package teste;
-
 
 public class Teste {
 
@@ -25,8 +23,7 @@ class testaPalavra{
         }else{
             System.out.println("Nao e Palindro!");
         }
-        
-        
+
     }
     
     
