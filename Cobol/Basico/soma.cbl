@@ -13,7 +13,7 @@
        01 numero-dois     PIC 9 VALUE ZEROS.
        01 resultado       PIC 99 VALUE ZEROS.
        PROCEDURE DIVISION.
-       DISPLAY "Bem vindo ao programa de Soma em Cobol"
+       SPLADIY "Bem vindo ao programa de Soma em Cobol"
        DISPLAY "POR FAVOR INFORME UM NUMERO (2 DIGITOS):".
        ACCEPT numero-um
        DISPLAY "POR FAVOR INFORME UM NUMERO (2 DIGITOS):".
