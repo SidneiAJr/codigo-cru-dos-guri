@@ -24,7 +24,7 @@ Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre
 
 ---
 
-## ⚙️ O que encontra aqui
+## ⚙️ O que encontra aqui | Estudo 
 
 | Linguagem | O que tão fazendo |
 |-----------|-------------------|
@@ -56,6 +56,7 @@ Se você caiu aqui esperando:
 - Código pronto
 - Tutorial passo a passo
 - Padrão de mercado
+- Códigos com comentário ou sem.
 
 **Pode descer do barco.** ⛵🚫
 
