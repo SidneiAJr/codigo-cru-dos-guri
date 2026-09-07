@@ -1,0 +1,4 @@
+*.rs linguist-language=Rust
+*.go linguist-language=Go
+*.pas linguist-language=Pascal
+*.c linguist-language=C
