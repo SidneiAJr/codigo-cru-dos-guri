@@ -15,7 +15,7 @@ class Pessoa {
 }
 
 // Testando
-$p1 = new Pessoa("Carlos");
-$p2 = new Pessoa("Ana");
+$p1 = new Pessoa("teste");
+$p2 = new Pessoa("teste");
 
 echo "Fim do script <br>";
