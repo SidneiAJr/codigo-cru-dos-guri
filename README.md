@@ -1,65 +1,45 @@
-# 🧪 Laboratorium Codium | Codigo Cru & Refatorar
+# 🧪 Laboratorium Codium | Código Cru & Refatorado
 
 ---
 
-## 🚧 Este **não é** um repositório de portfólio.  
+## 🚧 Repositório de Estudo — Não é portfólio.
+
+Aqui não tem comentário, não tem padrão bonito, não tem tutorial.  
+É só código cru de quem tá aprendendo na prática.
+
+> Errar, testar, quebrar e entender. Esse é o ciclo aqui.
 
 ---
 
-## **Bem-vindo ao Laboratorium** 🧑‍🍳🔪
+## ⚙️ O que tem aqui
 
-Este repositório é meu **laboratório pessoal de aprendizado em programação**.  
-Aqui você encontra códigos de estudo, testes, experimentos e anotações sobre diversas linguagens e conceitos.
-
-> É um espaço para **errar, testar, refatorar e aprender na prática**.
-
----
-
-## 🎯 Objetivo
-
-- Consolidar conhecimentos em múltiplas linguagens e stacks
-- Praticar lógica, estrutura de código e orientação a objetos
-- Experimentar conceitos novos sem medo de errar
-- Documentar minha evolução como dev
-
----
-
-## ⚙️ O que encontra aqui | Estudo 
-
-| Linguagem | O que tão fazendo |
-|-----------|-------------------|
+| Linguagem | Status |
+|-----------|--------|
 | **Java** | Back-end, POO, gambiarra controlada |
 | **PHP** | Sistema velho guerreiro, estudo puro |
 | **C#** | Desktop, Unity, os guri tão forte |
 | **TypeScript** | Front, back, lógica, o escambau |
+| **Rust** | Ownership, traits, memória na marra |
+| **Go** | Goroutines, structs, direto ao ponto |
 | **COBOL** | Old school, os guri tão raiz |
 | **C** | Automação, script doido, café no código |
+| **Pascal** | Arqueologia viva |
 
 ---
 
-## 🧠 Filosofia do Repositório
+## 🧠 Filosofia
 
-> Código de estudo não precisa ser lindo.  
-> Precisa ser **experimentado, quebrado e entendido**.
-
-Aqui os guri:
-- 🤜 Erram feio
-- 🤛 Aprendem na marra
-- 👊 Refatoram até ficar menos pior
-- 🧠 Guardam o aprendizado
+- 🤜 Erra feio
+- 🤛 Aprende na marra
+- 👊 Refatora até ficar menos pior
+- 🧠 Guarda o aprendizado
 
 ---
 
 ## ⚠️ Aviso
 
-Se você caiu aqui esperando:
-- Código pronto
-- Tutorial passo a passo
-- Padrão de mercado
-- Códigos com comentário ou sem.
+Se veio esperando código bonito, comentado e padronizado:
 
-**Pode descer do barco.** ⛵🚫
-
-Agora, se você também estuda, também erra, também quer ver o **processo real**:
+Se também estuda, também erra e quer ver o processo real:
 
 **Sobe a bordo, pega um café e fica à vontade.** ☕
